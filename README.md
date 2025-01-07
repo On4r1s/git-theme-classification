@@ -24,4 +24,4 @@ Now u can simply run the script.
 
 By default buffer is 5, so time needed to analize all wiki pages is ~ (wiki pages/5)+1 minutes.
 
-U can see progress on your Index-AI page.
+You can see progress on your Index-AI page.
