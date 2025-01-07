@@ -20,7 +20,7 @@ It can be done easily in IDE, or just changing code a little.
 
 ## Usage
 
-Now u can simply run the script.
+Now you can simply run the script.
 
 By default buffer is 5, so time needed to analize all wiki pages is ~ (wiki pages/5)+1 minutes.
 
